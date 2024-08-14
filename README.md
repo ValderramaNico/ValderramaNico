@@ -1,5 +1,5 @@
-<h2 align="left">Hola 👋! Mi nombre es Nicolás y soy de Chile!</h2>
-<h2 align="left">Hola 👋! My name is Nicolás and i'm from Chile!</h2>
+<h2 align="left">Hola 👋! Mi nombre es Nicolás y soy de Chile!
+Hi 👋! My name is Nicolás and i'm from Chile!</h2>
 
 ###
 
