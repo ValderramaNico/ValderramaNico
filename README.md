@@ -10,11 +10,7 @@ Buscando soluciones eficaces: Disfruto ser detallista, siempre en busca de maner
 
 🌱 Metas a corto plazo:
 Seguir construyendo proyectos que me ayuden a crecer como desarrollador.
-Aumentar mis conocimientos en Front-End y empezar mi camino hacie el Full-Stack.
-
-🎨 Intereses:
-Front-end: Diseño y experiencia del usuario.
-Full-stack: Conexión entre front-end y back-end.</p>
+Aumentar mis conocimientos en Front-End y empezar mi camino hacie el Full-Stack. </p>
 
 ###
 
