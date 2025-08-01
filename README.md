@@ -5,12 +5,8 @@
 <p align="left">Me encuentro en mis primeros pasos como desarrollador trainee abocado al Front-End. Soy publicista además y he encontrado en el desarrollo web una forma perfecta de combinar creatividad con tecnología. He descubierto en el Front-End una nueva pasión y quiero seguir aprendiendo además de especializarme como full-stack developer.
 
 🚀 Lo que estoy haciendo:
-Aprendiendo y mejorando: Actualmente, me enfoco en profundizar mis conocimientos en JavaScript y perfeccionar mis habilidades en Vue.js.
+Aprendiendo y mejorando: Actualmente, me enfoco en profundizar mis conocimientos en JavaScript y perfeccionar mis habilidades en Vue.js.\n
 Buscando soluciones eficaces: Disfruto ser detallista, siempre en busca de maneras para hacer mi trabajo más eficiente y rápido.
-
-🌱 Metas a corto plazo:
-Seguir construyendo proyectos que me ayuden a crecer como desarrollador.
-Aumentar mis conocimientos en Front-End y empezar mi camino hacie el Full-Stack. </p>
 
 ###
 
