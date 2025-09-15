@@ -6,8 +6,9 @@
 
 <p align="left">Me encuentro en mis primeros pasos como desarrollador trainee abocado al Front-End. Soy publicista además y he encontrado en el desarrollo web una forma perfecta de combinar creatividad con tecnología. He descubierto en el Front-End una nueva pasión y quiero seguir aprendiendo además de especializarme como full-stack developer.
 
-🚀 Lo que estoy haciendo:<br>
-Aprendiendo y mejorando: Actualmente, me enfoco en profundizar mis conocimientos en JavaScript y perfeccionar mis habilidades en Vue.js y React.
+🚀 Lo que estoy haciendo:
+
+Aprendiendo y mejorando; actualmente, me enfoco en profundizar mis conocimientos en JavaScript y perfeccionar mis habilidades en Vue.js y React.
 
 Buscando soluciones eficaces: Disfruto ser detallista, siempre en busca de maneras para hacer mi trabajo más eficiente y rápido.</p>
 
@@ -21,7 +22,7 @@ I am a trainee Front-End developer taking my first steps in the tech industry. W
 
 🚀 Currently working on:
 
-Learning and professional growth: Expanding my knowledge in JavaScript and sharpening my skills in Vue.js and React.
+Learning and professional growth; expanding my knowledge in JavaScript and sharpening my skills in Vue.js and React.
 
 Problem-solving mindset: Detail-oriented, always looking for effective and efficient solutions to improve workflows and optimize results.</p>
 
