@@ -1,4 +1,4 @@
-![Uploading Banner Nicolás Valderrama.png…]()
+![]()
 
 <img width="1584" height="396" alt="Banner Nicolás Valderrama" src="https://github.com/user-attachments/assets/b9921584-3c70-43a8-8814-00f94ee6d2d5" /><h2 align="left">Hola 👋! Mi nombre es Nicolás y soy de Chile!</h2>
 
