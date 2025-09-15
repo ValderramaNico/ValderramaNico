@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Me encuentro en mis primeros pasos como desarrollador trainee abocado al Front-End. Soy publicista además y he encontrado en el desarrollo web una forma perfecta de combinar creatividad con tecnología. He descubierto en el Front-End una nueva pasión y quiero seguir aprendiendo además de especializarme como full-stack developer.
+<p align="left">Me encuentro en mis primeros pasos como desarrollador trainee abocado al Front-End. Soy publicista además y he encontrado en el desarrollo web una forma perfecta de combinar creatividad con tecnología. He descubierto en el Front-End una nueva pasión y quiero seguir aprendiendo, actualmente me estoy especializando como full-stack developer.
 
 🚀 Lo que estoy haciendo:
 
@@ -18,7 +18,7 @@ Buscando soluciones eficaces: Disfruto ser detallista, siempre en busca de maner
 <h2 align="left">Hi 👋! My name is Nicolás and i'm from Chile!</h2>
 
 <p align="left">💻 About Me <br>
-I am a trainee Front-End developer taking my first steps in the tech industry. With a background in advertising, I have found in web development the perfect way to combine creativity with technology. Passionate about Front-End, I am committed to continuous learning and aim to specialize as a Full-Stack developer.
+I am a trainee Front-End developer taking my first steps in the tech industry. With a background in advertising, I have found in web development the perfect way to combine creativity with technology. Passionate about Front-End, currently specializing as a Full-Stack developer..
 
 🚀 Currently working on:
 
