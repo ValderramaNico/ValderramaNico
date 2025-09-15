@@ -9,6 +9,17 @@ Aprendiendo y mejorando: Actualmente, me enfoco en profundizar mis conocimientos
 Buscando soluciones eficaces: Disfruto ser detallista, siempre en busca de maneras para hacer mi trabajo más eficiente y rápido.
 
 ###
+###
+💻 About Me
+I am a trainee Front-End developer taking my first steps in the tech industry. With a background in advertising, I have found in web development the perfect way to combine creativity with technology. Passionate about Front-End, I am committed to continuous learning and aim to specialize as a Full-Stack developer.
+
+🚀 Currently working on:
+
+Learning and professional growth: Expanding my knowledge in JavaScript and sharpening my skills in Vue.js.
+
+Problem-solving mindset: Detail-oriented, always looking for effective and efficient solutions to improve workflows and optimize results.
+
+###
 
 <h2>Tecnologías: </h2>
 
