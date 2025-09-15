@@ -24,6 +24,7 @@ Learning and professional growth: Expanding my knowledge in JavaScript and sharp
 
 Problem-solving mindset: Detail-oriented, always looking for effective and efficient solutions to improve workflows and optimize results.</p>
 
+<hr>
 ###
 
 <h2>technologies: </h2>
