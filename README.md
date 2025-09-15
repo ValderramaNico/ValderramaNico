@@ -9,7 +9,9 @@ Aprendiendo y mejorando: Actualmente, me enfoco en profundizar mis conocimientos
 Buscando soluciones eficaces: Disfruto ser detallista, siempre en busca de maneras para hacer mi trabajo más eficiente y rápido.</p>
 
 ###
+
 ###
+
 <p align="left">💻 About Me <br>
 I am a trainee Front-End developer taking my first steps in the tech industry. With a background in advertising, I have found in web development the perfect way to combine creativity with technology. Passionate about Front-End, I am committed to continuous learning and aim to specialize as a Full-Stack developer.
 
@@ -21,7 +23,8 @@ Problem-solving mindset: Detail-oriented, always looking for effective and effic
 
 ###
 
-<h2>Tecnologías: </h2>
+<h2>technologies: </h2>
+<h3>Front-end</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -38,9 +41,11 @@ Problem-solving mindset: Detail-oriented, always looking for effective and effic
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+</div>
+
+<h3>Tools</h3>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -50,6 +55,10 @@ Problem-solving mindset: Detail-oriented, always looking for effective and effic
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
+</div>
+
+<h3>Design</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
@@ -60,9 +69,9 @@ Problem-solving mindset: Detail-oriented, always looking for effective and effic
 
 ###
 
-
+<h3>Social</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nicolas-valderramasalinas/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="52" height="40" alt="slack logo"  />
 
@@ -74,5 +83,4 @@ Problem-solving mindset: Detail-oriented, always looking for effective and effic
   <img src="https://github-readme-stats.vercel.app/api?username=ValderramaNico&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValderramaNico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true" height="180" alt="languages graph"  />
 </div>
-
 
