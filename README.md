@@ -13,9 +13,9 @@ Buscando soluciones eficaces: Disfruto ser detallista, siempre en busca de maner
 ###
 
 ###
-<h2 align="left" font-size="14px">Hi 👋! My name is Nicolás and i'm from Chile!</h2>
+<h2 align="left">Hi 👋! My name is Nicolás and i'm from Chile!</h2>
 
-<p align="left" font-size="14px">💻 About Me <br>
+<p align="left">💻 About Me <br>
 I am a trainee Front-End developer taking my first steps in the tech industry. With a background in advertising, I have found in web development the perfect way to combine creativity with technology. Passionate about Front-End, I am committed to continuous learning and aim to specialize as a Full-Stack developer.
 
 🚀 Currently working on:
