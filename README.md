@@ -1,6 +1,6 @@
 ![]()
 
-<img width="1584" height="396" border-radius:15px alt="Banner Nicolás Valderrama - full stack" src="https://github.com/user-attachments/assets/ff9688e3-24c8-4757-a2f0-d497baf0aa25" /><h2 align="left">Hola 👋! Mi nombre es Nicolás y soy de Chile!</h2>
+<img width="1584" height="396" style="border-radius: 15px" alt="Banner Nicolás Valderrama - full stack" src="https://github.com/user-attachments/assets/ff9688e3-24c8-4757-a2f0-d497baf0aa25" /><h2 align="left">Hola 👋! Mi nombre es Nicolás y soy de Chile!</h2>
 
 
 
