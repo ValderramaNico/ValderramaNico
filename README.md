@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me encuentro en mis primeros pasos como desarrollador trainee abocado al Front-End. Soy publicista además y he encontrado en el desarrollo web una forma perfecta de combinar creatividad con tecnología. He descubierto en el Front-End una nueva pasión y quiero seguir aprendiendo, actualmente me estoy especializando como full-stack developer.
+<p align="left">Me encuentro en mis primeros pasos como desarrollador Full-stack trainee abocado al Front-End. Soy publicista además y he encontrado en el desarrollo web una forma perfecta de combinar creatividad con tecnología. He descubierto en el Front-End una nueva pasión y quiero seguir aprendiendo y ser un profesional integro capaz de poder combinar front y back en una aplicación por completo.
 
 🚀 Lo que estoy haciendo:
 
